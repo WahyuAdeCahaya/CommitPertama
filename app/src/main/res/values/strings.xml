@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Perkenalanku</string>
+    <string name="identitas_diri">IDENTITAS DIRI</string>
+
+    <string name="ttl">Tempat Tanggal Lahir</string>
+    <string name="nomer">No HP</string>
+    <string name="hobi">Hobi</string>
+    <string name="keinginan">Keinginan</string>
+
+    <string name="nama">Nama</string>
+    <string name="alamat">Alamat</string>
+    <string name="no_hp">No HP</string>
+    <string name="devida">:</string>
+    <string name="simpan">Simpan</string>
+</resources>
