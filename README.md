@@ -8,4 +8,4 @@
 ----------------------------------------------------------------
 # Foto Proyek
 
-![alt text](https://github.com/WahyuAdeCahaya/Perkenalan/blob/master/foto.jpg)
+![alt text](https://github.com/WahyuAdeCahaya/CommitPertama/blob/master/foto.jpg.jpeg)
